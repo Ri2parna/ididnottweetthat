@@ -4,22 +4,21 @@
   "description": "\"I honestly did not tweet that\"",
   "main": "index.html",
   "scripts": {
-      "run": "lite-server",
+    "start": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ri2parna/ididnottweetthat.git"
   },
-  "dependencies": {
-    "downloadjs": "^1.4.7",
-    "html-to-image": "^0.1.1",
-    "lite-server": "^2.5.4"
-  },
+  "dependencies": {},
   "author": "R",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ri2parna/ididnottweetthat/issues"
   },
-  "homepage": "https://github.com/Ri2parna/ididnottweetthat#readme"
+  "homepage": "https://github.com/Ri2parna/ididnottweetthat#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
